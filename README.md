@@ -2,7 +2,7 @@
 I am Sakshat.
 
 ### Skills  
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,spring,postgres,docker,kubernetes,elasticsearch,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,spring,postgres,docker,kubernetes,elasticsearch,azure,aws&perline=5)](https://skillicons.dev)
 
 - 🌱 I’m currently learning ...
     
