@@ -3,7 +3,7 @@
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js)](https://skillicons.dev)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...  
   ![Learning](https://skillicons.dev/icons?i=js,ts)
 
 <!--
