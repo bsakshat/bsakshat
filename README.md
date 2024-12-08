@@ -1,7 +1,8 @@
 ## Hi there 👋
+I am Sakshat.
 
 ### Skills  
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,docker,kubernetes,azure,elasticsearch)](https://skillicons.dev)
 
 - 🌱 I’m currently learning ...  
   ![Learning](https://skillicons.dev/icons?i=js,ts)
