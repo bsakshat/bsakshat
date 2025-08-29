@@ -6,7 +6,7 @@ I am Sakshat.
 
 - 🌱 I’m currently learning ...
     
-  ![Learning](https://skillicons.dev/icons?i=js,ts,react)
+  ![Learning](https://skillicons.dev/icons?i=ts,angular,react,redis,kafka)
 
 <!--
 **bsakshat/bsakshat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
